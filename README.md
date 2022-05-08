@@ -19,7 +19,7 @@ const aboutMe = {
     <td valign="center">
       <h2 align="left">Business Landing Page</h2>
       <p><a href="https://github.com/fkrein1/simple-landing-page">GitHub repository</a>, <a href="https://fkrein1.github.io/simple-landing-page/">GitHub page</a></p>
-      <p>CSS, HTML and Vanilla JavaScript</p>
+      <p>CSS, HTML and JavaScript</p>
       <img width=400px src="./simple-landing-page.png" alt="Project-preview" />
     </td>
   </tr>
