@@ -2,17 +2,13 @@
 const aboutMe = {
   name: 'Felipe Krein Rocha',
   location: 'São Paulo, Brazil',
-  email: 'felipekrein@gmail.com'
+  linkedIn: 'https://www.linkedin.com/in/felipe-krein-rocha/',
+  email: 'felipekrein@gmail.com',
   tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
 };
 ```
 
-<div align="left>
-  <a href="https://www.linkedin.com/in/felipe-krein-rocha/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-</div>
-<br>
-
-<h1 align="left">Selected Projects</h1>
+<h2 align="left">Selected Projects</h2>
 
 <table>
   <tr>
