@@ -5,24 +5,22 @@ const aboutMe = {
   email: 'felipekrein@gmail.com'
   tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
 };
-
-function linkedIn() {
-  return 'Linkedin: https://www.linkedin.com/in/felipe-krein-rocha/';
-}
 ```
 
-<h1 align="center">Portfolio</h1>
+<div align="left>
+  <a href="https://www.linkedin.com/in/felipe-krein-rocha/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+</div>
+<br>
+
+<h1 align="left">Selected Projects</h1>
 
 <table>
   <tr>
-    <td valign="top">
-      <h2 align="center"><a href="https://github.com/raphaelalmeidamartins/sonic-trumps">Sonic Trumps</a></h2>
-      <a href="https://raphaelalmeidamartins.github.io/sonic-trumps/"><img width="100%" src="./imagens/sonic-trumps2.png" alt="Project-preview" /></a>
-      <br>
-      <br>
-      <p><em><strong>Tools/Methodologies:</strong> React (functional components), Redux, React Router v6, HTML, CSS, Sass, JavaScript, Mobile First</em></p>
-      <p>Top Trumps-style card game with Sonic the Hedgehog characters</p>
+    <td valign="center">
+      <h2 align="left">Business Landing Page</h2>
+      <p><a href="https://github.com/fkrein1/simple-landing-page">GitHub repository</a>, <a href="https://fkrein1.github.io/simple-landing-page/">GitHub page</a></p>
+      <p>CSS, HTML and Vanilla JavaScript</p>
+      <img width=400px src="./simple-landing-page.png" alt="Project-preview" />
     </td>
   </tr>
 </table>
-<br>
