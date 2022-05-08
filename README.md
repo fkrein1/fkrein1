@@ -11,7 +11,7 @@ function linkedIn() {
 }
 ```
 
-<h1 align="center">Main Projects</h1>
+<h1 align="center">Portfolio</h1>
 
 <table>
   <tr>
