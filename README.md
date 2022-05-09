@@ -4,7 +4,7 @@ const aboutMe = {
   location: 'São Paulo, Brazil',
   linkedIn: 'https://www.linkedin.com/in/felipe-krein-rocha/',
   email: 'felipekrein@gmail.com',
-  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'Sass', 'React', 'Redux', 'RTL'],
+  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'React', 'Redux', 'Jest' 'RTL'],
 };
 ```
 
