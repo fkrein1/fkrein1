@@ -8,7 +8,7 @@ const aboutMe = {
 };
 ```
 
-<h2 align="left">Projects</h2>
+<h2 align="left">Selected Projects</h2>
 
 <table>
   
