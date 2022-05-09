@@ -1,5 +1,5 @@
 <h2>Hello, folks 👋</h2>
-My name is Felipe Krein Rocha and I'am a React Front End Developer. I am from São Paulo, Brazil and you can reach me at <a href="https://www.linkedin.com/in/felipe-krein-rocha/">LinkedIn</a>.<br>
+My name is Felipe Krein and I'am a React Front End Developer.<br><br>I am from São Paulo, Brazil and you can reach me at <a href="https://www.linkedin.com/in/felipe-krein-rocha/">LinkedIn</a>.<br>
 
 <h2 align="left">Selected Projects</h2>
 <table>
