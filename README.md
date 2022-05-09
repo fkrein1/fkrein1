@@ -1,15 +1,7 @@
-```JavaScript
-const aboutMe = {
-  name: 'Felipe Krein Rocha',
-  location: 'São Paulo, Brazil',
-  linkedIn: 'https://www.linkedin.com/in/felipe-krein-rocha/',
-  email: 'felipekrein@gmail.com',
-  tools: ['HTML', 'CSS', 'JavaScript ES6+', 'React', 'Redux', 'Jest' 'RTL'],
-};
-```
+<h2>Hello, folks 👋</h2>
+My name is Felipe Krein Rocha and I'am a React Front End Developer. I am from São Paulo, Brazil and you can reach me at <a href="https://www.linkedin.com/in/felipe-krein-rocha/">LinkedIn</a>.<br>
 
 <h2 align="left">Selected Projects</h2>
-
 <table>
   
   <tr>
