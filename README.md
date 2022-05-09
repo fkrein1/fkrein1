@@ -20,6 +20,12 @@ My name is Felipe Krein and I'am a React Front End Developer.<br><br>I am from S
   </tr>
   <tr>
      <td valign="top">
+      <h3 align="left">Try Series</h3>
+      <p><a href="https://fkrein1.github.io/try-series/">GitHub Page</a>, <a href="https://github.com/fkrein1/try-series">Repository</a></p>
+      <p>CSS, HTML and JavaScript</p>
+      <a href="https://fkrein1.github.io/try-series/"><img width=400px src="./images/try-series.png" alt="Project-preview" /></a>
+    </td>    
+     <td valign="top">
       <h3 align="left">Pixel Art</h3>
       <p><a href="https://fkrein1.github.io/pixel-art/">GitHub Page</a>, <a href="https://github.com/fkrein1/pixel-art">Repository</a></p>
       <p>CSS, HTML and JavaScript</p>
