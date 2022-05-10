@@ -13,9 +13,9 @@ My name is Felipe Krein and I'am a React Front End Developer.<br><br>I am from S
     </td>
     <td valign="top">
       <h3 align="left">Business Landing Page</h3>
-      <p><a href="https://fkrein1.github.io/simple-landing-page/">GitHub Page</a>, <a href="https://github.com/fkrein1/simple-landing-page">Repository</a></p>
+      <p><a href="https://fkrein1.github.io/business-landing-page/">GitHub Page</a>, <a href="https://github.com/fkrein1/business-landing-page">Repository</a></p>
       <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/simple-landing-page/"><img width=400px src="./images/simple-landing-page.png" alt="Project-preview" /></a>
+      <a href="https://fkrein1.github.io/business-landing-page/"><img width=400px src="./images/simple-landing-page.png" alt="Project-preview" /></a>
     </td>
   </tr>
   <tr>
