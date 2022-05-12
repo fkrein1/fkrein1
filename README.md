@@ -8,7 +8,7 @@ My name is Felipe Krein and I'am a React Front End Developer.<br><br>I am from S
      <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p><a href="https://fkrein1.github.io/react-tunes/">GitHub Page</a>, <a href="https://github.com/fkrein1/react-tunes">Repository</a></p>
-      <p>React, Browser Router and CSS</p>
+      <p>React, React Router and CSS</p>
       <a href="https://fkrein1.github.io/react-tunes/"><img width=400px src="./images/react-tunes.jpg" alt="Project-preview" /></a>
     </td>
     <td valign="top">
