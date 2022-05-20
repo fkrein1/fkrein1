@@ -8,7 +8,7 @@ My name is Felipe Krein and I'am a React Front End Developer.<br><br>I am from S
      <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p><a href="https://fkrein1.github.io/travel-wallet/">GitHub Page</a>, <a href="https://github.com/fkrein1/travel-wallet">Repository</a></p>
-       <p>React, React Router, Redux, Jest and RTL</p>
+       <p>React, Redux, Jest and RTL</p>
       <a href="https://fkrein1.github.io/travel-wallet/"><img width=400px src="./images/travel-wallet.png" alt="Project-preview" /></a>
     </td>
      <td valign="top">
