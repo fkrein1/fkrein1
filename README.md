@@ -1,22 +1,6 @@
 <h2>Hi, folks 👋</h2>
 My name is Felipe Krein and I'am a React Front End Developer.<br><br>I am from São Paulo, Brazil and you can reach me at <a href="https://www.linkedin.com/in/felipe-krein-rocha/">LinkedIn</a>.<br>
 
-<h3 align="left">Tools:</h3>
-<div align="left">
-  <img src="/gh-icons/react.svg" width="48" height="48">
-  <img src="/gh-icons/redux.svg" width="48" height="48">
-  <img src="/gh-icons/javascript.svg" width="48" height="48">
-  <img src="/gh-icons/sass.svg" width="48" height="48">
-  <img src="/gh-icons/github.svg" width="48" height="48">
-  <img src="/gh-icons/html5.svg" width="48" height="48">
-  <img src="/gh-icons/css3.svg" width="48" height="48">
-  <img src="/gh-icons/jest.png" width="48" height="48">
-  <img src="/gh-icons/rtl.png" width="48" height="48">
-<!--   <img src="/gh-icons/docker.svg" width="48" height="48">
-  <img src="/gh-icons/mysql.svg" width="48" height="48">
-  <img src="/gh-icons/nodejs.svg" width="48" height="48"> -->
-</div>
-
 <h3 align="left">Selected Projects</h3>
 <table>
   
