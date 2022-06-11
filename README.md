@@ -5,6 +5,12 @@ My name is Felipe Krein and I'm a React Front End Developer.<br><br>I'm from Sã
 <table>
   
   <tr>
+    <td valign="top">
+      <h3 align="left">Letmeask</h3>
+      <p><a href="https://letmeask-8f3d9.web.app/">Firebase Deployment</a>, <a href="https://github.com/fkrein1/letmeask">Repository</a></p>
+       <p>React, Redux, Jest and RTL</p>
+      <a href="https://letmeask-8f3d9.web.app/"><img width=400px src="./images/letmeask.png" alt="Project-preview" /></a>
+    </td>
      <td valign="top">
       <h3 align="left">Trivia</h3>
       <p><a href="https://fkrein1.github.io/trivia/">GitHub Page</a>, <a href="https://github.com/fkrein1/trivia">Repository</a></p>
@@ -17,14 +23,14 @@ My name is Felipe Krein and I'm a React Front End Developer.<br><br>I'm from Sã
        <p>React, Redux, Jest and RTL</p>
       <a href="https://fkrein1.github.io/travel-wallet/"><img width=400px src="./images/travel-wallet.png" alt="Project-preview" /></a>
     </td>
-     <td valign="top">
-      <h3 align="left">React Tunes</h3>
-      <p><a href="https://fkrein1.github.io/react-tunes/">GitHub Page</a>, <a href="https://github.com/fkrein1/react-tunes">Repository</a></p>
-      <p>React and React Router</p>
-      <a href="https://fkrein1.github.io/react-tunes/"><img width=400px src="./images/react-tunes.jpg" alt="Project-preview" /></a>
-    </td>
   </tr>
   <tr>
+      <td valign="top">
+        <h3 align="left">React Tunes</h3>
+        <p><a href="https://fkrein1.github.io/react-tunes/">GitHub Page</a>, <a href="https://github.com/fkrein1/react-tunes">Repository</a></p>
+        <p>React and React Router</p>
+        <a href="https://fkrein1.github.io/react-tunes/"><img width=400px src="./images/react-tunes.jpg" alt="Project-preview" /></a>
+    </td>
      <td valign="top">
       <h3 align="left">Business Landing Page</h3>
       <p><a href="https://fkrein1.github.io/business-landing-page/">GitHub Page</a>, <a href="https://github.com/fkrein1/business-landing-page">Repository</a></p>
@@ -37,12 +43,6 @@ My name is Felipe Krein and I'm a React Front End Developer.<br><br>I'm from Sã
       <p>CSS, HTML and JavaScript</p>
       <a href="https://fkrein1.github.io/try-series/"><img width=400px src="./images/try-series.png" alt="Project-preview" /></a>
     </td>    
-     <td valign="top">
-      <h3 align="left">Pixel Art</h3>
-      <p><a href="https://fkrein1.github.io/pixel-art/">GitHub Page</a>, <a href="https://github.com/fkrein1/pixel-art">Repository</a></p>
-      <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/pixel-art/"><img width=400px src="./images/pixel-art.png" alt="Project-preview" /></a>
-    </td>
   </tr>
   
 </table>
