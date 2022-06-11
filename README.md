@@ -7,8 +7,8 @@ My name is Felipe Krein and I'm a React Front End Developer.<br><br>I'm from Sã
   <tr>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
-      <p><a href="https://letmeask-8f3d9.web.app/">Firebase Deployment</a>, <a href="https://github.com/fkrein1/letmeask">Repository</a></p>
-       <p>React, Redux, Jest and RTL</p>
+      <p><a href="https://letmeask-8f3d9.web.app/">Website</a>, <a href="https://github.com/fkrein1/letmeask">Repository</a></p>
+       <p>Typescript, React and Firebase RTL</p>
       <a href="https://letmeask-8f3d9.web.app/"><img width=400px src="./images/letmeask.png" alt="Project-preview" /></a>
     </td>
      <td valign="top">
