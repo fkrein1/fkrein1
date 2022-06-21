@@ -46,3 +46,16 @@ My name is Felipe Krein and I'm a React Front End Developer.<br><br>You can reac
   </tr>
   
 </table>
+
+<h3 align="left">UI Clones</h3>
+<table>
+  
+  <tr>
+    <td valign="top">
+      <h3 align="left">Twitter Clone</h3>
+      <p><a href="https://fkrein1.github.io/twitter-clone/">Website</a>, <a href="https://github.com/fkrein1/twitter-clone">Repository</a></p>
+       <p>React and Styled Components</p>
+      <a href="https://fkrein1.github.io/twitter-clone/"><img width=400px src="./images/twitter-clone.png" alt="Project-preview" /></a>
+    </td>
+  </tr>
+</table>
