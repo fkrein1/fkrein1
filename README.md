@@ -2,7 +2,7 @@
 My name is Felipe Krein Rocha and I'm a React Front End Developer.
 <br>
 <br>
-You can reach me at felipekrein@gmail.com or add me on <a href="https://www.linkedin.com/in/felipe-krein-rocha/">LinkedIn</a>.
+You can reach me at <strong>felipekrein@gmail.com</strong> or add me on <a href="https://www.linkedin.com/in/felipe-krein-rocha/"><strong>LinkedIn</strong></a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
