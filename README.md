@@ -2,6 +2,9 @@
 My name is Felipe Krein Rocha and I'm a React Front End Developer.
 <br>
 <br>
+My prefered front-end stack is Next.js, Typescript and Tailwind. 
+<br>
+<br>
 You can reach me at <strong>felipekrein@gmail.com</strong> or add me on <a href="https://www.linkedin.com/in/felipe-krein-rocha/"><strong>LinkedIn</strong></a>.
 
 <h3 align="left">Languages and Tools:</h3>
