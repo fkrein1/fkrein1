@@ -15,6 +15,7 @@ You can reach me at felipekrein@gmail.com or add me on <a href="https://www.link
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+<img src="https://s3.amazonaws.com/fellipekrein.com.br-new/imagens/vite.png" alt="vite" width="40" height="40"/>
 </p>
 
 <h3 align="left">Selected Projects</h3>
