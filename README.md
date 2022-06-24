@@ -4,7 +4,7 @@ My name is Felipe Krein Rocha and I'm a React Front End Developer.
 <br>
 You can reach me at <strong>felipekrein@gmail.com</strong> or add me on <a href="https://www.linkedin.com/in/felipe-krein-rocha/"><strong>LinkedIn</strong></a>.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
