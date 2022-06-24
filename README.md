@@ -18,7 +18,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on <a href=
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
-<h3 align="left">Selected Projects</h3>
+<h3 align="left">Projects</h3>
 <table>
   <tr>
     <td valign="top">
