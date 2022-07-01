@@ -75,7 +75,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <table>
   <tr>
     <td valign="top">
-      <h3 align="left">Food App</h3>
+      <h3 align="left">Recipe App</h3>
       <p>
         <a href="https://recipe-app-flame.vercel.app/">Demo</a>,
         <a href="https://github.com/fkrein1/recipe-app">Repo</a>
