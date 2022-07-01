@@ -75,6 +75,17 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <table>
   <tr>
     <td valign="top">
+      <h3 align="left">Food App</h3>
+      <p>
+        <a href="https://recipe-app-flame.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/recipe-app">Repo</a>
+      </p>
+      <p>React, Sass and Vite</p>
+      <a href="https://recipe-app-flame.vercel.app/"
+        ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">Food Lab</h3>
       <p>
         <a href="https://food-lab.vercel.app/">Demo</a>,
@@ -96,6 +107,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -107,8 +120,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
@@ -134,6 +145,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
@@ -148,8 +161,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Business Landing Page</h3>
       <p>
