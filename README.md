@@ -75,6 +75,17 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <table>
   <tr>
     <td valign="top">
+      <h3 align="left">Wine Quiz</h3>
+      <p>
+        <a href="https://wine-quiz.vercel.app">Demo</a>,
+        <a href="https://github.com/fkrein1/wine-quiz">Repo</a>
+      </p>
+      <p>React, Typescript and GraphQL</p>
+      <a href="https://github.com/fkrein1/wine-quiz"
+        ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">Recipe App</h3>
       <p>
         <a href="https://recipe-app-flame.vercel.app/">Demo</a>,
@@ -96,6 +107,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -107,8 +120,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -131,6 +142,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p>
@@ -145,8 +158,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
