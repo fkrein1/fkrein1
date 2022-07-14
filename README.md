@@ -81,7 +81,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         <a href="https://github.com/fkrein1/wine-quiz">Repo</a>
       </p>
       <p>React, Typescript and GraphQL</p>
-      <a href="https://github.com/fkrein1/wine-quiz"
+      <a href="https://wine-quiz.vercel.app"
         ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
