@@ -192,24 +192,10 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-    <td valign="top">
-      <h3 align="left">Business Landing Page</h3>
-      <p>
-        <a href="https://fkrein1.github.io/business-landing-page/">Demo</a>,
-        <a href="https://github.com/fkrein1/business-landing-page">Repo</a>
-      </p>
-      <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/business-landing-page/"
-        ><img
-          width="300px"
-          src="./images/simple-landing-page.png"
-          alt="Project-preview"
-      /></a>
-    </td>
   </tr>
 </table>
 
-<h3 align="left">UI Clones</h3>
+<h3 align="left">UI Projects</h3>
 <table>
   <tr>
     <td valign="top">
@@ -223,6 +209,20 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img
           width="300px"
           src="./images/twitter-clone.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
+      <h3 align="left">Business Landing Page</h3>
+      <p>
+        <a href="https://fkrein1.github.io/business-landing-page/">Demo</a>,
+        <a href="https://github.com/fkrein1/business-landing-page">Repo</a>
+      </p>
+      <p>CSS, HTML and JavaScript</p>
+      <a href="https://fkrein1.github.io/business-landing-page/"
+        ><img
+          width="300px"
+          src="./images/simple-landing-page.png"
           alt="Project-preview"
       /></a>
     </td>
