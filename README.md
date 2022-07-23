@@ -199,6 +199,20 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <table>
   <tr>
     <td valign="top">
+      <h3 align="left">GitHub Clone</h3>
+      <p>
+        <a href="https://github-clone-lovat.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/github-clone">Repo</a>
+      </p>
+      <p>React and Styled Components</p>
+      <a href="https://github-clone-lovat.vercel.app/"
+        ><img
+          width="300px"
+          src="./images/github-clone.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">Twitter Clone</h3>
       <p>
         <a href="https://fkrein1.github.io/twitter-clone/">Demo</a>,
