@@ -166,7 +166,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       <a href="https://smartfit-brown.vercel.app/"
         ><img
           width="300px"
-          src="./images/smartfit.png"
+          src="./images/smart-fit.png"
           alt="Project-preview"
       /></a>
     </td>
