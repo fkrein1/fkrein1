@@ -157,6 +157,20 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </tr>
   <tr>
     <td valign="top">
+      <h3 align="left">Smart Fit</h3>
+      <p>
+        <a href="https://smartfit-brown.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/smartfit">Repo</a>
+      </p>
+      <p>React, Typescript and Tailwind</p>
+      <a href="https://smartfit-brown.vercel.app/"
+        ><img
+          width="300px"
+          src="./images/smartfit.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p>
         <a href="https://fkrein1.github.io/travel-wallet/">Demo</a>,
