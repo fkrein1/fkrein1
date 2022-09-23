@@ -98,6 +98,17 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
     <td valign="top">
+      <h3 align="left">eSports</h3>
+      <p>
+        <a href="https://esports-web-fkfkfk.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/esports">Repo</a>
+      </p>
+      <p>React, Express and Prisma ORM</p>
+      <a href="https://esports-web-fkfkfk.vercel.app/"
+        ><img width="300px" src="./images/esports.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">Recipe App</h3>
       <p>
         <a href="https://recipe-app-flame.vercel.app/">Demo</a>,
@@ -108,6 +119,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Food Lab</h3>
       <p>
@@ -118,9 +131,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       <a href="https://food-lab.vercel.app/"
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
-    </td>
-  </tr>
-  <tr>
+    </td>  
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -143,6 +154,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
@@ -154,8 +167,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -184,7 +195,9 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-    <td valign="top">
+  </tr>
+  <tr>
+      <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
         <a href="https://fkrein1.github.io/react-tunes/">Demo</a>,
