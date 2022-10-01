@@ -98,6 +98,16 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
     <td valign="top">
+      <h3 align="left">TFC Football Club</h3>
+      <p>
+        <a href="https://github.com/fkrein1/tfc-football-club">Repo</a>
+      </p>
+      <p>Typescript, Express and Sequelize</p>
+      <a href="https://github.com/fkrein1/tfc-football-club"
+        ><img width="300px" src="./images/tfc.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
         <a href="https://esports-web-fkfkfk.vercel.app/">Demo</a>,
@@ -108,6 +118,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/esports.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Recipe App</h3>
       <p>
@@ -119,8 +131,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Food Lab</h3>
       <p>
@@ -143,6 +153,9 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
+
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -154,8 +167,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
@@ -181,6 +192,9 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
+
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p>
@@ -195,8 +209,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
       <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
