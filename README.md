@@ -1,5 +1,5 @@
 <h2>Hi, folks 👋</h2>
-My name is Felipe Krein Rocha and I'm a React Front End Developer.
+My name is Felipe Krein Rocha and I'm a Full Stack Engineer (Typescript, Node, React).
 <br />
 <br />
 You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
@@ -17,6 +17,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       height="40"
     />
   </a>
+
   <a href="#">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -35,8 +36,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </a>
   <a href="#">
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -51,8 +52,24 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </a>
   <a href="#">
     <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      alt="sass"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
       src="https://s3.amazonaws.com/fellipekrein.com.br-new/imagens/vite.png"
       alt="vite"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
       width="40"
       height="40"
     />
@@ -67,16 +84,16 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </a>
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
       width="40"
       height="40"
     />
   </a>
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
       width="40"
       height="40"
     />
