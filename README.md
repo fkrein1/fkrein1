@@ -1,5 +1,5 @@
 <h2>Hi, folks 👋</h2>
-My name is Felipe Krein Rocha and I'm a Full Stack Engineer.
+My name is Felipe Krein Rocha and I'm a Software Engineer.
 <br />
 <br />
 You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
