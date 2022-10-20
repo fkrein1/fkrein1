@@ -117,7 +117,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
     <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
-        <a href="https://tfc-deploy.vercel.app/leaderboard">Demo</a>
+        <a href="https://tfc-deploy.vercel.app/leaderboard">Demo</a>, 
         <a href="https://github.com/fkrein1/tfc-football-club">Repo</a>
       </p>
       <p>Typescript, Express and Sequelize</p>
