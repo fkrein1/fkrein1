@@ -126,6 +126,18 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
     <td valign="top">
+      <h3 align="left">Mongo Car Shop API</h3>
+      <p>
+        <a href="https://github.com/fkrein1/mongo-car-shop-api">Repo</a>
+      </p>
+      <p>MongoDB, Mongoose and Typescript</p>
+      <a href="https://github.com/fkrein1/mongo-car-shop-api"
+        ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
+      /></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
         <a href="https://esports-web-fkfkfk.vercel.app/">Demo</a>,
@@ -136,8 +148,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/esports.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Recipe App</h3>
       <p>
@@ -160,6 +170,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
     </td>  
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -171,9 +183,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
-
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -196,6 +205,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -210,9 +221,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p>
