@@ -28,7 +28,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   <a href="#">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
-      alt="typescript"
+      alt="node"
       width="40"
       height="40"
     />
@@ -84,7 +84,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   <a href="#">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
+      alt="tailwind css"
       width="40"
       height="40"
     />
