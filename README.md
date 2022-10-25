@@ -11,17 +11,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <p align="left">
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="#">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
       width="40"
       height="40"
     />
@@ -36,7 +27,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </a>
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
       alt="typescript"
       width="40"
       height="40"
@@ -52,8 +43,32 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </a>
   <a href="#">
     <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+      alt="redux"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-      alt="sass"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      alt="postgress"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
+      alt="sequelize"
       width="40"
       height="40"
     />
@@ -94,6 +109,14 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="#">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+      alt="mongodb"
       width="40"
       height="40"
     />
