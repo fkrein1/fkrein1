@@ -273,6 +273,23 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
   </tr>
+    </td>
+      <td valign="top">
+      <h3 align="left">To Do List</h3>
+      <p>
+        <a href="https://todo-list-blush-psi.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/todo-list">Repo</a>
+      </p>
+      <p>React, Sass and CSS Modules</p>
+      <a href="https://todo-list-blush-psi.vercel.app/"
+        ><img
+          width="300px"
+          src="./images/todo-one.png"
+          alt="Project-preview"
+      /></a>
+    </td>
+  <tr>
+  </tr>
 </table>
 
 <h3 align="left">UI Projects</h3>
