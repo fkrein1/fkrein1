@@ -127,6 +127,17 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <table>
   <tr>
     <td valign="top">
+      <h3 align="left">Coffee Delivery</h3>
+      <p>
+        <a href="https://coffee-delivery-lyart.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/coffee-delivery">Repo</a>
+      </p>
+      <p>React, Node and Prisma</p>
+      <a href="https://coffee-delivery-lyart.vercel.app/"
+        ><img width="300px" src="./images/coffee-delivery.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
         <a href="https://wine-quiz.vercel.app">Demo</a>,
@@ -140,7 +151,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
     <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
-        <a href="https://tfc-deploy.vercel.app/leaderboard">Demo</a>, 
+        <a href="https://tfc-deploy.vercel.app/leaderboard">Demo</a>,
         <a href="https://github.com/fkrein1/tfc-football-club">Repo</a>
       </p>
       <p>Typescript, Express and Sequelize</p>
@@ -148,6 +159,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/tfc.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Mongo Car Shop API</h3>
       <p>
@@ -158,8 +171,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
@@ -182,6 +193,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Food Lab</h3>
       <p>
@@ -192,9 +205,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       <a href="https://food-lab.vercel.app/"
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
-    </td>  
-  </tr>
-  <tr>
+    </td>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -217,6 +228,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
@@ -228,8 +241,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -238,10 +249,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       </p>
       <p>React, Typescript and Tailwind</p>
       <a href="https://smartfit-brown.vercel.app/"
-        ><img
-          width="300px"
-          src="./images/smart-fit.png"
-          alt="Project-preview"
+        ><img width="300px" src="./images/smart-fit.png" alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -258,7 +266,10 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-      <td valign="top">
+  </tr>
+
+  <tr>
+    <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
         <a href="https://fkrein1.github.io/react-tunes/">Demo</a>,
@@ -272,9 +283,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-    </td>
-      <td valign="top">
+    <td valign="top">
       <h3 align="left">To Do List</h3>
       <p>
         <a href="https://todo-list-blush-psi.vercel.app/">Demo</a>,
@@ -282,13 +291,9 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       </p>
       <p>React, Sass and CSS Modules</p>
       <a href="https://todo-list-blush-psi.vercel.app/"
-        ><img
-          width="300px"
-          src="./images/todo-one.png"
-          alt="Project-preview"
+        ><img width="300px" src="./images/todo-one.png" alt="Project-preview"
       /></a>
     </td>
-  <tr>
   </tr>
 </table>
 
