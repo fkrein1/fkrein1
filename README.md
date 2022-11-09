@@ -284,9 +284,21 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
     <td valign="top">
+      <h3 align="left">GitHub Blog</h3>
+      <p>
+        <a href="https://github-blog-bice.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/github-blog">Repo</a>
+      </p>
+      <p>React, Typescript and Styled Components</p>
+      <a href="https://github-blog-bice.vercel.app/"
+        ><img width="300px" src="./images/github-blog.png" alt="Project-preview"
+      /></a>
+    </td>
+    <td valign="top">
       <h3 align="left">To Do List</h3>
       <p>
-        <a href="https://todo-list-blush-psi.vercel.app/">Demo</a>,
+        <a href="https://
+        -list-blush-psi.vercel.app/">Demo</a>,
         <a href="https://github.com/fkrein1/todo-list">Repo</a>
       </p>
       <p>React, Sass and CSS Modules</p>
