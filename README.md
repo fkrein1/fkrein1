@@ -151,7 +151,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
-        <a href="https://wine-quiz.vercel.app">Demo</a>,
+        <a href="https://wine-quiz.vercel.app">Site</a>,
         <a href="https://github.com/fkrein1/wine-quiz">Repo</a>
       </p>
       <p>React, Typescript and GraphQL</p>
