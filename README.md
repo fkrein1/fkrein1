@@ -185,11 +185,10 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
     <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
-        <a href="https://esports-web-fkfkfk.vercel.app/">Demo</a>,
         <a href="https://github.com/fkrein1/esports">Repo</a>
       </p>
       <p>React, Express and Prisma ORM</p>
-      <a href="https://esports-web-fkfkfk.vercel.app/"
+      <a href="https://github.com/fkrein1/esports"
         ><img width="300px" src="./images/esports.png" alt="Project-preview"
       /></a>
     </td>
