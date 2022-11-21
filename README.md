@@ -75,14 +75,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
   </a>
   <a href="#">
     <img
-      src="https://s3.amazonaws.com/fellipekrein.com.br-new/imagens/vite.png"
-      alt="vite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#">
-    <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind css"
       width="40"
