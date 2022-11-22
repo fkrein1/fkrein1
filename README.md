@@ -118,6 +118,16 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <h3 align="left">Projects</h3>
 <table>
   <tr>
+    <td valign="top">
+      <h3 align="left">Venmo</h3>
+      <p>
+        <a href="https://github.com/fkrein1/venmo">Repo</a>
+      </p>
+      <p>React, Node and Prisma</p>
+      <a href="https://github.com/fkrein1/venmo"
+        ><img width="300px" src="./images/venmo.png" alt="Project-preview"
+      /></a>
+    </td>
      <td valign="top">
       <h3 align="left">DALL·E ART</h3>
       <p>
@@ -140,6 +150,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/coffee-delivery.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
@@ -151,8 +163,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
      <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
@@ -173,6 +183,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
@@ -183,8 +195,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/esports.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
      <td valign="top">
       <h3 align="left">Recipe App</h3>
       <p>
@@ -207,6 +217,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -218,8 +230,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
      <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -242,6 +252,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -253,9 +265,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/smart-fit.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-
-  <tr>
      <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p>
@@ -284,6 +293,8 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">GitHub Blog</h3>
       <p>
@@ -295,8 +306,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/github-blog.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
      <td valign="top">
       <h3 align="left">To Do List</h3>
       <p>
