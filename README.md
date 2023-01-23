@@ -321,10 +321,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
   </tr>
-</table>
-
-<h3 align="left">UI Projects</h3>
-<table>
   <tr>
     <td valign="top">
       <h3 align="left">GitHub Clone</h3>
