@@ -111,16 +111,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
 <table>
   <tr>
     <td valign="top">
-      <h3 align="left">Venmo</h3>
-      <p>
-        <a href="https://github.com/fkrein1/venmo">Repo</a>
-      </p>
-      <p>React, Node and Prisma</p>
-      <a href="https://github.com/fkrein1/venmo"
-        ><img width="300px" src="./images/venmo.png" alt="Project-preview"
-      /></a>
-    </td>
-     <td valign="top">
       <h3 align="left">DALL·E ART</h3>
       <p>
         <a href="https://dalleart.com.br/">Site</a>,
@@ -132,18 +122,16 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
     <td valign="top">
-      <h3 align="left">Coffee Delivery</h3>
+      <h3 align="left">Venmo</h3>
       <p>
-        <a href="https://coffee-delivery-lyart.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/coffee-delivery">Repo</a>
+        <a href="https://github.com/fkrein1/venmo">Repo</a>
       </p>
       <p>React, Node and Prisma</p>
-      <a href="https://coffee-delivery-lyart.vercel.app/"
-        ><img width="300px" src="./images/coffee-delivery.png" alt="Project-preview"
+      <a href="https://github.com/fkrein1/venmo"
+        ><img width="300px" src="./images/venmo.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
+    
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
@@ -155,6 +143,22 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
+
+
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3 align="left">Coffee Delivery</h3>
+      <p>
+        <a href="https://coffee-delivery-lyart.vercel.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/coffee-delivery">Repo</a>
+      </p>
+      <p>React, Node and Prisma</p>
+      <a href="https://coffee-delivery-lyart.vercel.app/"
+        ><img width="300px" src="./images/coffee-delivery.png" alt="Project-preview"
+      /></a>
+    </td>
+
      <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
