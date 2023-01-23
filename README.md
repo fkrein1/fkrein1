@@ -131,7 +131,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/venmo.png" alt="Project-preview"
       /></a>
     </td>
-    
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
@@ -143,8 +142,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
         ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
-
-
   </tr>
   <tr>
     <td valign="top">
