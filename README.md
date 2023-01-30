@@ -1,5 +1,5 @@
 <h2>Hi, folks 👋</h2>
-My name is Felipe Krein Rocha and I'm a Front End Developer.
+My name is Felipe Krein Rocha and I'm a Software Developer.
 <br />
 <br />
 You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
