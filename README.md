@@ -2,7 +2,7 @@
 My name is Felipe Krein Rocha and I'm a Software Developer.
 <br />
 <br />
-You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
+You can reach me at
 <a href="https://www.linkedin.com/in/felipe-krein-rocha/"
   ><strong>LinkedIn</strong></a
 >.
@@ -321,18 +321,6 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
     </td>
   </tr>
   <tr>
-     <td valign="top">
-      <h3 align="left">To Do List</h3>
-      <p>
-        <a href="https://
-        -list-blush-psi.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/todo-list">Repo</a>
-      </p>
-      <p>React, Sass and CSS Modules</p>
-      <a href="https://todo-list-blush-psi.vercel.app/"
-        ><img width="300px" src="./images/todo-one.png" alt="Project-preview"
-      /></a>
-    </td>
     <td valign="top">
       <h3 align="left">GitHub Clone</h3>
       <p>
@@ -361,9 +349,7 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
+        <td valign="top">
       <h3 align="left">Business Landing Page</h3>
       <p>
         <a href="https://fkrein1.github.io/business-landing-page/">Demo</a>,
@@ -378,4 +364,5 @@ You can reach me at <strong>felipekrein@gmail.com</strong> or add me on
       /></a>
     </td>
   </tr>
+
 </table>
