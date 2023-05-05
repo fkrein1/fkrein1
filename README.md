@@ -113,7 +113,7 @@ You can reach me at
     <td valign="top">
       <h3 align="left">DALL·E ART</h3>
       <p>
-        <a href="https://dalleart.com.br/">Site</a>,
+        <a href="https://dalleart.vercel.app">Site</a>,
         <a href="https://github.com/fkrein1/dall-e">Repo</a>
       </p>
       <p>React, Node and Prisma</p>
