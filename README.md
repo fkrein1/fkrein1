@@ -117,7 +117,7 @@ You can reach me at
         <a href="https://github.com/fkrein1/dall-e">Repo</a>
       </p>
       <p>React, Node and Prisma</p>
-      <a href="https://dalleart.com.br/"
+      <a href="https://dalleart.vercel.app"
         ><img width="300px" src="./images/dall-e.png" alt="Project-preview"
       /></a>
     </td>
