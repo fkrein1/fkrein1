@@ -7,7 +7,7 @@ You can reach me at
   ><strong>LinkedIn</strong></a
 >.
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Technologies</h3>
 <p align="left">
   <a href="#">
     <img
@@ -35,40 +35,8 @@ You can reach me at
   </a>
   <a href="#">
     <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#">
-    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-      alt="postgress"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"
-      alt="sequelize"
       width="40"
       height="40"
     />
@@ -83,24 +51,17 @@ You can reach me at
   </a>
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+      alt="postgress"
       width="40"
       height="40"
     />
   </a>
+
   <a href="#">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+      alt="docker"
       width="40"
       height="40"
     />
@@ -110,6 +71,14 @@ You can reach me at
 <h3 align="left">Projects</h3>
 <table>
   <tr>
+    <td valign="top">
+      <h3 align="left">Deckify</h3>
+      <p><a href="https://deckify.ai/">Site</a></p>
+      <p>T3 Stack</p>
+      <a href="https://deckify.ai/"
+        ><img width="300px" src="./images/deckify.png" alt="Project-preview"
+      /></a>
+    </td>
     <td valign="top">
       <h3 align="left">DALL·E ART</h3>
       <p>
@@ -131,6 +100,8 @@ You can reach me at
         ><img width="300px" src="./images/venmo.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
@@ -142,8 +113,6 @@ You can reach me at
         ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Plant Manager</h3>
       <p>
@@ -151,7 +120,10 @@ You can reach me at
       </p>
       <p>React Native and Typescript</p>
       <a href="https://github.com/fkrein1/plant-manager"
-        ><img width="300px" src="./images/plant-manager.png" alt="Project-preview"
+        ><img
+          width="300px"
+          src="./images/plant-manager.png"
+          alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -162,10 +134,15 @@ You can reach me at
       </p>
       <p>React, Node and Prisma</p>
       <a href="https://coffee-delivery-lyart.vercel.app/"
-        ><img width="300px" src="./images/coffee-delivery.png" alt="Project-preview"
+        ><img
+          width="300px"
+          src="./images/coffee-delivery.png"
+          alt="Project-preview"
       /></a>
     </td>
-     <td valign="top">
+  </tr>
+  <tr>
+    <td valign="top">
       <h3 align="left">Habits Tracker</h3>
       <p>
         <a href="https://github.com/fkrein1/habits">Repo</a>
@@ -175,8 +152,6 @@ You can reach me at
         ><img width="300px" src="./images/habits.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
@@ -187,7 +162,7 @@ You can reach me at
         ><img width="300px" src="./images/tfc.png" alt="Project-preview"
       /></a>
     </td>
-   <td valign="top">
+    <td valign="top">
       <h3 align="left">Mongo Car Shop API</h3>
       <p>
         <a href="https://github.com/fkrein1/mongo-car-shop-api">Repo</a>
@@ -197,6 +172,8 @@ You can reach me at
         ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
@@ -207,9 +184,6 @@ You can reach me at
         ><img width="300px" src="./images/esports.png" alt="Project-preview"
       /></a>
     </td>
-
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Recipe App</h3>
       <p>
@@ -221,7 +195,7 @@ You can reach me at
         ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
       /></a>
     </td>
-   <td valign="top">
+    <td valign="top">
       <h3 align="left">Food Lab</h3>
       <p>
         <a href="https://food-lab.vercel.app/">Demo</a>,
@@ -232,6 +206,8 @@ You can reach me at
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -243,8 +219,6 @@ You can reach me at
         ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -256,7 +230,7 @@ You can reach me at
         ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
-   <td valign="top">
+    <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
         <a href="https://fkrein1.github.io/trivia/">Demo</a>,
@@ -267,6 +241,8 @@ You can reach me at
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -278,8 +254,6 @@ You can reach me at
         ><img width="300px" src="./images/smart-fit.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Travel Wallet</h3>
       <p>
@@ -294,7 +268,7 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
-   <td valign="top">
+    <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
         <a href="https://fkrein1.github.io/react-tunes/">Demo</a>,
@@ -308,6 +282,8 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">GitHub Blog</h3>
       <p>
@@ -316,11 +292,12 @@ You can reach me at
       </p>
       <p>React, Typescript and Styled Components</p>
       <a href="https://github-blog-bice.vercel.app/"
-        ><img width="300px" src="./images/github-blog.png" alt="Project-preview"
+        ><img
+          width="300px"
+          src="./images/github-blog.png"
+          alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">GitHub Clone</h3>
       <p>
@@ -349,7 +326,10 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
-        <td valign="top">
+  </tr>
+
+  <tr>
+    <td valign="top">
       <h3 align="left">Business Landing Page</h3>
       <p>
         <a href="https://fkrein1.github.io/business-landing-page/">Demo</a>,
@@ -364,5 +344,4 @@ You can reach me at
       /></a>
     </td>
   </tr>
-
 </table>
