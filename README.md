@@ -76,7 +76,7 @@ You can reach me at
       <p><a href="https://frex.ai/">Site</a></p>
       <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
       <a href="https://frex.ai/"
-        ><img width="350px" src="./images/frex.png" alt="Project-preview"
+        ><img width="300px" src="./images/frex.png" alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -84,11 +84,9 @@ You can reach me at
       <p><a href="https://deckify.ai/">Site</a></p>
       <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
       <a href="https://deckify.ai/"
-        ><img width="350px" src="./images/deckify.png" alt="Project-preview"
+        ><img width="300px" src="./images/deckify.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">DALL·E ART</h3>
       <p>
@@ -97,9 +95,11 @@ You can reach me at
       </p>
       <p>React, Node and Prisma</p>
       <a href="https://dalleart.vercel.app"
-        ><img width="350px" src="./images/dall-e.png" alt="Project-preview"
+        ><img width="300px" src="./images/dall-e.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Venmo</h3>
       <p>
@@ -107,11 +107,9 @@ You can reach me at
       </p>
       <p>React, Node and Prisma</p>
       <a href="https://github.com/fkrein1/venmo"
-        ><img width="350px" src="./images/venmo.png" alt="Project-preview"
+        ><img width="300px" src="./images/venmo.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
@@ -120,7 +118,7 @@ You can reach me at
       </p>
       <p>React, Typescript and GraphQL</p>
       <a href="https://wine-quiz.vercel.app"
-        ><img width="350px" src="./images/wine-quiz.png" alt="Project-preview"
+        ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -131,7 +129,7 @@ You can reach me at
       <p>React Native and Typescript</p>
       <a href="https://github.com/fkrein1/plant-manager"
         ><img
-          width="350px"
+          width="300px"
           src="./images/plant-manager.png"
           alt="Project-preview"
       /></a>
@@ -147,7 +145,7 @@ You can reach me at
       <p>React, Node and Prisma</p>
       <a href="https://coffee-delivery-lyart.vercel.app/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/coffee-delivery.png"
           alt="Project-preview"
       /></a>
@@ -159,11 +157,9 @@ You can reach me at
       </p>
       <p>React Native, Typescript and Node</p>
       <a href="https://github.com/fkrein1/habits"
-        ><img width="350px" src="./images/habits.png" alt="Project-preview"
+        ><img width="300px" src="./images/habits.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
@@ -171,9 +167,11 @@ You can reach me at
       </p>
       <p>Typescript, Express and Sequelize</p>
       <a href="https://github.com/fkrein1/tfc-football-club"
-        ><img width="350px" src="./images/tfc.png" alt="Project-preview"
+        ><img width="300px" src="./images/tfc.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Mongo Car Shop API</h3>
       <p>
@@ -181,11 +179,9 @@ You can reach me at
       </p>
       <p>MongoDB, Mongoose and Typescript</p>
       <a href="https://github.com/fkrein1/mongo-car-shop-api"
-        ><img width="350px" src="./images/car-shop.png" alt="Project-preview"
+        ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
@@ -193,7 +189,7 @@ You can reach me at
       </p>
       <p>React, Express and Prisma ORM</p>
       <a href="https://github.com/fkrein1/esports"
-        ><img width="350px" src="./images/esports.png" alt="Project-preview"
+        ><img width="300px" src="./images/esports.png" alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -204,7 +200,7 @@ You can reach me at
       </p>
       <p>React, Sass and Vite</p>
       <a href="https://recipe-app-flame.vercel.app/"
-        ><img width="350px" src="./images/recipe-app.png" alt="Project-preview"
+        ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
       /></a>
     </td>
   </tr>
@@ -217,7 +213,7 @@ You can reach me at
       </p>
       <p>GraphCMS, GraphQL and Tailwind</p>
       <a href="https://food-lab.vercel.app/"
-        ><img width="350px" src="./images/food-lab.png" alt="Project-preview"
+        ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -228,11 +224,9 @@ You can reach me at
       </p>
       <p>Typescript, React and Firebase</p>
       <a href="https://letmeask-8f3d9.web.app/"
-        ><img width="350px" src="./images/letmeask.png" alt="Project-preview"
+        ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Star Wars Planets</h3>
       <p>
@@ -241,9 +235,11 @@ You can reach me at
       </p>
       <p>React, Hooks and Sass</p>
       <a href="https://fkrein1.github.io/starwars-planets/"
-        ><img width="350px" src="./images/starwars.png" alt="Project-preview"
+        ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
@@ -252,11 +248,9 @@ You can reach me at
       </p>
       <p>React, Redux, Jest and RTL</p>
       <a href="https://fkrein1.github.io/trivia/"
-        ><img width="350px" src="./images/trivia.png" alt="Project-preview"
+        ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -265,7 +259,7 @@ You can reach me at
       </p>
       <p>React, Typescript and Tailwind</p>
       <a href="https://smartfit-brown.vercel.app/"
-        ><img width="350px" src="./images/smart-fit.png" alt="Project-preview"
+        ><img width="300px" src="./images/smart-fit.png" alt="Project-preview"
       /></a>
     </td>
     <td valign="top">
@@ -277,7 +271,7 @@ You can reach me at
       <p>React, Redux, Jest and RTL</p>
       <a href="https://fkrein1.github.io/travel-wallet/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/travel-wallet.png"
           alt="Project-preview"
       /></a>
@@ -293,7 +287,7 @@ You can reach me at
       <p>React and React Router</p>
       <a href="https://fkrein1.github.io/react-tunes/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/react-tunes.jpg"
           alt="Project-preview"
       /></a>
@@ -307,13 +301,11 @@ You can reach me at
       <p>React, Typescript and Styled Components</p>
       <a href="https://github-blog-bice.vercel.app/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/github-blog.png"
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">GitHub Clone</h3>
       <p>
@@ -323,11 +315,13 @@ You can reach me at
       <p>React and Styled Components</p>
       <a href="https://github-clone-lovat.vercel.app/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/github-clone.png"
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Twitter Clone</h3>
       <p>
@@ -337,14 +331,11 @@ You can reach me at
       <p>React and Styled Components</p>
       <a href="https://fkrein1.github.io/twitter-clone/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/twitter-clone.png"
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-
-  <tr>
     <td valign="top">
       <h3 align="left">Business Landing Page</h3>
       <p>
@@ -354,7 +345,7 @@ You can reach me at
       <p>CSS, HTML and JavaScript</p>
       <a href="https://fkrein1.github.io/business-landing-page/"
         ><img
-          width="350px"
+          width="300px"
           src="./images/simple-landing-page.png"
           alt="Project-preview"
       /></a>
