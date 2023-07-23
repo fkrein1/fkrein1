@@ -72,14 +72,6 @@ You can reach me at
 <table>
   <tr>
     <td valign="top">
-      <h3 align="left">Frex</h3>
-      <p><a href="https://frex.ai/">Site</a></p>
-      <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
-      <a href="https://frex.ai/"
-        ><img width="300px" src="./images/frex.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
       <h3 align="left">Deckify</h3>
       <p><a href="https://deckify.ai/">Site</a></p>
       <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
@@ -98,8 +90,6 @@ You can reach me at
         ><img width="300px" src="./images/dall-e.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Venmo</h3>
       <p>
@@ -110,6 +100,8 @@ You can reach me at
         ><img width="300px" src="./images/venmo.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
@@ -134,8 +126,6 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Coffee Delivery</h3>
       <p>
@@ -150,6 +140,8 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Habits Tracker</h3>
       <p>
@@ -170,8 +162,6 @@ You can reach me at
         ><img width="300px" src="./images/tfc.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Mongo Car Shop API</h3>
       <p>
@@ -182,6 +172,8 @@ You can reach me at
         ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">eSports</h3>
       <p>
@@ -203,8 +195,6 @@ You can reach me at
         ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Food Lab</h3>
       <p>
@@ -216,6 +206,8 @@ You can reach me at
         ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Letmeask</h3>
       <p>
@@ -238,8 +230,6 @@ You can reach me at
         ><img width="300px" src="./images/starwars.png" alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Trivia</h3>
       <p>
@@ -251,6 +241,8 @@ You can reach me at
         ><img width="300px" src="./images/trivia.png" alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Smart Fit</h3>
       <p>
@@ -276,8 +268,6 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">React Tunes</h3>
       <p>
@@ -292,6 +282,8 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">GitHub Blog</h3>
       <p>
@@ -320,8 +312,6 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3 align="left">Twitter Clone</h3>
       <p>
@@ -336,6 +326,8 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3 align="left">Business Landing Page</h3>
       <p>
