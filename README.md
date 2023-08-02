@@ -105,11 +105,11 @@ You can reach me at
     <td valign="top">
       <h3 align="left">Wine Quiz</h3>
       <p>
-        <a href="https://wine-quiz.vercel.app">Site</a>,
+        <a href="https://wine-quiz-fkrein1.vercel.app/">Site</a>,
         <a href="https://github.com/fkrein1/wine-quiz">Repo</a>
       </p>
       <p>React, Typescript and GraphQL</p>
-      <a href="https://wine-quiz.vercel.app"
+      <a href="https://wine-quiz-fkrein1.vercel.app/"
         ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
       /></a>
     </td>
