@@ -127,17 +127,14 @@ You can reach me at
       /></a>
     </td>
     <td valign="top">
-      <h3 align="left">Coffee Delivery</h3>
+      <h3 align="left">Letmeask</h3>
       <p>
-        <a href="https://coffee-delivery-lyart.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/coffee-delivery">Repo</a>
+        <a href="https://letmeask-8f3d9.web.app/">Demo</a>,
+        <a href="https://github.com/fkrein1/letmeask">Repo</a>
       </p>
-      <p>React, Node and Prisma</p>
-      <a href="https://coffee-delivery-lyart.vercel.app/"
-        ><img
-          width="300px"
-          src="./images/coffee-delivery.png"
-          alt="Project-preview"
+      <p>Typescript, React and Firebase</p>
+      <a href="https://letmeask-8f3d9.web.app/"
+        ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
       /></a>
     </td>
   </tr>
@@ -170,176 +167,6 @@ You can reach me at
       <p>MongoDB, Mongoose and Typescript</p>
       <a href="https://github.com/fkrein1/mongo-car-shop-api"
         ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">eSports</h3>
-      <p>
-        <a href="https://github.com/fkrein1/esports">Repo</a>
-      </p>
-      <p>React, Express and Prisma ORM</p>
-      <a href="https://github.com/fkrein1/esports"
-        ><img width="300px" src="./images/esports.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Recipe App</h3>
-      <p>
-        <a href="https://recipe-app-flame.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/recipe-app">Repo</a>
-      </p>
-      <p>React, Sass and Vite</p>
-      <a href="https://recipe-app-flame.vercel.app/"
-        ><img width="300px" src="./images/recipe-app.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Food Lab</h3>
-      <p>
-        <a href="https://food-lab.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/food-lab">Repo</a>
-      </p>
-      <p>GraphCMS, GraphQL and Tailwind</p>
-      <a href="https://food-lab.vercel.app/"
-        ><img width="300px" src="./images/food-lab.png" alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Letmeask</h3>
-      <p>
-        <a href="https://letmeask-8f3d9.web.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/letmeask">Repo</a>
-      </p>
-      <p>Typescript, React and Firebase</p>
-      <a href="https://letmeask-8f3d9.web.app/"
-        ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Star Wars Planets</h3>
-      <p>
-        <a href="https://fkrein1.github.io/starwars-planets/">Demo</a>,
-        <a href="https://github.com/fkrein1/starwars-planets">Repo</a>
-      </p>
-      <p>React, Hooks and Sass</p>
-      <a href="https://fkrein1.github.io/starwars-planets/"
-        ><img width="300px" src="./images/starwars.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Trivia</h3>
-      <p>
-        <a href="https://fkrein1.github.io/trivia/">Demo</a>,
-        <a href="https://github.com/fkrein1/trivia">Repo</a>
-      </p>
-      <p>React, Redux, Jest and RTL</p>
-      <a href="https://fkrein1.github.io/trivia/"
-        ><img width="300px" src="./images/trivia.png" alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Smart Fit</h3>
-      <p>
-        <a href="https://smartfit-brown.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/smartfit">Repo</a>
-      </p>
-      <p>React, Typescript and Tailwind</p>
-      <a href="https://smartfit-brown.vercel.app/"
-        ><img width="300px" src="./images/smart-fit.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Travel Wallet</h3>
-      <p>
-        <a href="https://fkrein1.github.io/travel-wallet/">Demo</a>,
-        <a href="https://github.com/fkrein1/travel-wallet">Repo</a>
-      </p>
-      <p>React, Redux, Jest and RTL</p>
-      <a href="https://fkrein1.github.io/travel-wallet/"
-        ><img
-          width="300px"
-          src="./images/travel-wallet.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">React Tunes</h3>
-      <p>
-        <a href="https://fkrein1.github.io/react-tunes/">Demo</a>,
-        <a href="https://github.com/fkrein1/react-tunes">Repo</a>
-      </p>
-      <p>React and React Router</p>
-      <a href="https://fkrein1.github.io/react-tunes/"
-        ><img
-          width="300px"
-          src="./images/react-tunes.jpg"
-          alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">GitHub Blog</h3>
-      <p>
-        <a href="https://github-blog-bice.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/github-blog">Repo</a>
-      </p>
-      <p>React, Typescript and Styled Components</p>
-      <a href="https://github-blog-bice.vercel.app/"
-        ><img
-          width="300px"
-          src="./images/github-blog.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">GitHub Clone</h3>
-      <p>
-        <a href="https://github-clone-lovat.vercel.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/github-clone">Repo</a>
-      </p>
-      <p>React and Styled Components</p>
-      <a href="https://github-clone-lovat.vercel.app/"
-        ><img
-          width="300px"
-          src="./images/github-clone.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Twitter Clone</h3>
-      <p>
-        <a href="https://fkrein1.github.io/twitter-clone/">Demo</a>,
-        <a href="https://github.com/fkrein1/twitter-clone">Repo</a>
-      </p>
-      <p>React and Styled Components</p>
-      <a href="https://fkrein1.github.io/twitter-clone/"
-        ><img
-          width="300px"
-          src="./images/twitter-clone.png"
-          alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Business Landing Page</h3>
-      <p>
-        <a href="https://fkrein1.github.io/business-landing-page/">Demo</a>,
-        <a href="https://github.com/fkrein1/business-landing-page">Repo</a>
-      </p>
-      <p>CSS, HTML and JavaScript</p>
-      <a href="https://fkrein1.github.io/business-landing-page/"
-        ><img
-          width="300px"
-          src="./images/simple-landing-page.png"
-          alt="Project-preview"
       /></a>
     </td>
   </tr>
