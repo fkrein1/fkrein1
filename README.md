@@ -74,6 +74,7 @@ You can reach me at
     <td valign="top">
       <h3 align="left">Deckify</h3>
       <p><a href="https://deckify.ai/">Site</a></p>
+      <p><a href="https://github.com/fkrein1/deckify">Repo</a></p>
       <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
       <a href="https://deckify.ai/"
         ><img width="300px" src="./images/deckify.png" alt="Project-preview"
