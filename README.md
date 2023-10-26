@@ -77,7 +77,7 @@ You can reach me at
         <a href="https://deckify.ai/">Site</a>,
         <a href="https://github.com/fkrein1/deckify">Repo</a>
       </p>
-      <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
+      <p>Next.js, Prisma, tRPC, Tailwind</p>
       <a href="https://deckify.ai/"
         ><img width="300px" src="./images/deckify.png" alt="Project-preview"
       /></a>
