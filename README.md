@@ -73,8 +73,10 @@ You can reach me at
   <tr>
     <td valign="top">
       <h3 align="left">Deckify</h3>
-      <p><a href="https://deckify.ai/">Site</a></p>
-      <p><a href="https://github.com/fkrein1/deckify">Repo</a></p>
+      <p>
+        <a href="https://deckify.ai/">Site</a>,
+        <a href="https://github.com/fkrein1/deckify">Repo</a>
+      </p>
       <p>T3 Stack: Next.js, Prisma, tRPC, Tailwind</p>
       <a href="https://deckify.ai/"
         ><img width="300px" src="./images/deckify.png" alt="Project-preview"
@@ -128,29 +130,6 @@ You can reach me at
       /></a>
     </td>
     <td valign="top">
-      <h3 align="left">Letmeask</h3>
-      <p>
-        <a href="https://letmeask-8f3d9.web.app/">Demo</a>,
-        <a href="https://github.com/fkrein1/letmeask">Repo</a>
-      </p>
-      <p>Typescript, React and Firebase</p>
-      <a href="https://letmeask-8f3d9.web.app/"
-        ><img width="300px" src="./images/letmeask.png" alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Habits Tracker</h3>
-      <p>
-        <a href="https://github.com/fkrein1/habits">Repo</a>
-      </p>
-      <p>React Native, Typescript and Node</p>
-      <a href="https://github.com/fkrein1/habits"
-        ><img width="300px" src="./images/habits.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
       <h3 align="left">TFC Football Club</h3>
       <p>
         <a href="https://github.com/fkrein1/tfc-football-club">Repo</a>
@@ -158,16 +137,6 @@ You can reach me at
       <p>Typescript, Express and Sequelize</p>
       <a href="https://github.com/fkrein1/tfc-football-club"
         ><img width="300px" src="./images/tfc.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
-      <h3 align="left">Mongo Car Shop API</h3>
-      <p>
-        <a href="https://github.com/fkrein1/mongo-car-shop-api">Repo</a>
-      </p>
-      <p>MongoDB, Mongoose and Typescript</p>
-      <a href="https://github.com/fkrein1/mongo-car-shop-api"
-        ><img width="300px" src="./images/car-shop.png" alt="Project-preview"
       /></a>
     </td>
   </tr>
