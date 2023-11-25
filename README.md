@@ -129,15 +129,5 @@ You can reach me at
           alt="Project-preview"
       /></a>
     </td>
-    <td valign="top">
-      <h3 align="left">TFC Football Club</h3>
-      <p>
-        <a href="https://github.com/fkrein1/tfc-football-club">Repo</a>
-      </p>
-      <p>Typescript, Express and Sequelize</p>
-      <a href="https://github.com/fkrein1/tfc-football-club"
-        ><img width="300px" src="./images/tfc.png" alt="Project-preview"
-      /></a>
-    </td>
   </tr>
 </table>
