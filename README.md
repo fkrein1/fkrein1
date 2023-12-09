@@ -79,29 +79,6 @@ You can reach me at
       /></a>
     </td>
     <td valign="top">
-      <h3 align="left">Venmo</h3>
-      <p>
-        <a href="https://github.com/fkrein1/venmo">Repo</a>
-      </p>
-      <p>React, Node and Prisma</p>
-      <a href="https://github.com/fkrein1/venmo"
-        ><img width="300px" src="./images/venmo.png" alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Wine Quiz</h3>
-      <p>
-        <a href="https://wine-quiz-fkrein1.vercel.app/">Site</a>,
-        <a href="https://github.com/fkrein1/wine-quiz">Repo</a>
-      </p>
-      <p>React, Typescript and GraphQL</p>
-      <a href="https://wine-quiz-fkrein1.vercel.app/"
-        ><img width="300px" src="./images/wine-quiz.png" alt="Project-preview"
-      /></a>
-    </td>
-    <td valign="top">
       <h3 align="left">Plant Manager</h3>
       <p>
         <a href="https://github.com/fkrein1/plant-manager">Repo</a>
