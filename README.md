@@ -60,7 +60,7 @@ You can reach me at
       <h3 align="left">Deckify</h3>
       <p>
         <a href="https://deckify.ai/">Site</a>,
-        <a href="https://github.com/fkrein1/deckify">Repo</a>
+        <a href="https://github.com/fkrein1/deckify">Private Repo</a>
       </p>
       <p>Next.js, Prisma, tRPC, Tailwind</p>
       <a href="https://deckify.ai/"
