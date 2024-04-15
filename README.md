@@ -69,11 +69,11 @@ You can reach me at
     <td valign="top">
       <h3 align="left">DALL·E ART</h3>
       <p>
-        <a href="https://dall-eart.vercel.app">Site</a>,
+        <a href="https://dalleart.vercel.app">Site</a>,
         <a href="https://github.com/fkrein1/dall-e">Repo</a>
       </p>
       <p>React, Node and Prisma</p>
-      <a href="https://dall-eart.vercel.app"
+      <a href="https://dalleart.vercel.app/"
         ><img width="300px" src="./images/dall-e.png" alt="Project-preview"
       /></a>
     </td>
