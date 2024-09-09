@@ -1,6 +1,5 @@
 <h2>Hi, folks 👋</h2>
-My name is Felipe Krein Rocha and I'm a Software Developer.
-<br />
+My name is Felipe Krein Rocha and I'm a Software Engineer.
 <br />
 You can reach me at
 <a href="https://www.linkedin.com/in/felipe-krein-rocha/"
