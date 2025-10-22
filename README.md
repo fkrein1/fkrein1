@@ -59,18 +59,5 @@ You can reach me at
         ><img width="300px" src="./images/dall-e.png" alt="Project-preview"
       /></a>
     </td>
-    <td valign="top">
-      <h3 align="left">Plant Manager</h3>
-      <p>
-        <a href="https://github.com/fkrein1/plant-manager">Repo</a>
-      </p>
-      <p>React Native and Typescript</p>
-      <a href="https://github.com/fkrein1/plant-manager"
-        ><img
-          width="300px"
-          src="./images/plant-manager.png"
-          alt="Project-preview"
-      /></a>
-    </td>
   </tr>
 </table>
