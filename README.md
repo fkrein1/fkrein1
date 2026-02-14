@@ -6,7 +6,7 @@ You can reach me at
   ><strong>LinkedIn</strong></a
 >.
 
-<h3 align="left">Technologies</h3>
+<h3 align="left">Main Stack</h3>
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -33,20 +33,3 @@ You can reach me at
     height="40"
   />
 </p>
-
-<h3 align="left">Projects</h3>
-<table>
-  <tr>
-    <td valign="top">
-      <h3 align="left">Deckify</h3>
-      <p>
-        <a href="https://deckify.ai/">Site</a>, 
-        <a href="https://github.com/fkrein1/deck">Repo</a>
-      </p>
-      <p>Next.js, Prisma, tRPC, Tailwind</p>
-      <a href="https://deckify.ai/"
-        ><img width="300px" src="./images/deckify.png" alt="Project-preview"
-      /></a>
-    </td>
-  </tr>
-</table>
